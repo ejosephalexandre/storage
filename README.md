@@ -1,0 +1,2 @@
+# slitaz-storage
+# storage
